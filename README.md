@@ -6,5 +6,5 @@ Repository of the initial base of the JavaScript language
 
 ## To-do List
 - Lista de tarefas:
-  -Ao clicar na função "Adicionar", o item é adicionado a lista 
-  -Em Checkbox ao clicar, o item é riscado e também ele pode voltar a caixa vazia [ ]
+  - Ao clicar na função "Adicionar", o item é adicionado a lista 
+  - Em Checkbox ao clicar, o item é riscado e também ele pode voltar a caixa vazia [ ]
