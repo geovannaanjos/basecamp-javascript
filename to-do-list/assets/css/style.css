@@ -1,0 +1,39 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body,html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #a4dbff;
+    color: #000;
+    text-align: center;
+}
+
+#body input{
+    background: transparent;
+    color: #000;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px 5px;
+    font-size: 15px;
+}
+
+#body button{
+    background: transparent;
+    border: 1px solid #1c6987;
+    border-radius: 5px;
+    padding: 5px 5px;
+    color: #1c6987;
+    font-size: 15px;
+}
+#body #tasks{
+    text-align: left;
+    margin-top: 35px;
+}
+:checked + label {
+    text-decoration: line-through;
+    color: grey;
+  }
