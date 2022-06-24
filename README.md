@@ -2,7 +2,7 @@
 Repository of the initial base of the JavaScript language
 
 ## Contador
-- Quando o contador chega á 10° contagem ele para e quando a contagem é abaixa de 0 (negativa), os números passam a ficar vermelhos.
+- Quando o contador chega á 10° contagem ele para e quando a contagem é abaixo de 0 (negativa), os números passam a ficar vermelhos.
 
 ## To-do List
 - Lista de tarefas:
